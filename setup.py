@@ -1,6 +1,7 @@
 from setuptools import setup
 
-setup(name="tools",
+# These are the fundamental arguments for this function. We need at least these.
+setup(name="Tools",
       version="0.01",
       description="Demo Package for Class", 
       url = "https://github.com/tuckert23/ds5100-package",
